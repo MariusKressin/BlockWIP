@@ -48,20 +48,20 @@ class GameContainer extends TempElement {
   };
   time = 11;
   blockMap = [
-    `ppttggtttppppppp`,
-    `pttgggggttpppppp`,
-    `ppppggggtppwppww`,
-    `pptttgttpwwwwwwp`,
-    `pttttttwwwwwwppp`,
-    `pppttttgwwwwgtpp`,
-    `ppppgggggtggpppt`,
-    `pppsssppgggstttt`,
-    `sssssssssssswttw`,
-    `csssswsswwwwwwtw`,
-    `ccsswwswwsssswww`,
-    `sssswssssppptpss`,
-    `sswwwwspppptttpp`,
-    `cssswwwssspptttp`,
+    `ppttggtttpppppppp`,
+    `pttgggggttppppppp`,
+    `ppppggggtppwppwwp`,
+    `pptttgttpwwwwwwpp`,
+    `pttttttwwwwwwpppw`,
+    `pppttttgwwwwgtppw`,
+    `ppppgggggtggppptw`,
+    `pppsssppgggsttttw`,
+    `sssssssssssswttww`,
+    `csssswsswwwwwwtww`,
+    `ccsswwwwwsssswwww`,
+    `sssswssssgggtpssg`,
+    `sswwwwsggggtttppg`,
+    `cssswwwssgggtttpg`,
   ];
 
   constructor() {
