@@ -1,0 +1,15 @@
+* {
+  transition: 0.1s ease;
+}
+
+body {
+  overflow: hidden;
+}
+
+div.game-container-container {
+  width: 100vw;
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
